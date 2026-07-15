@@ -1,6 +1,5 @@
 #!/bin/bash
 
-"postCreateCommand": ".devcontainer/postCreate.sh"
 
 sudo apt-get update
 sudo apt-get install sl
